@@ -20,10 +20,10 @@ p {
   text-align: center;
   text-decoration: none;
 
-  color: black;            /* black color */
-  background-color: white; /* white fill */
-  border: 2px solid black; /* black border */
+  color: black;            
+  background-color: A7CCA4; 
+  border: 2px solid black; 
 
   font-size: 20px;
   padding: 10px 20px;     
-  border-radius: 8px;      /* rounded corners */
+  border-radius: 8px;      
