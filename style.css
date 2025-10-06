@@ -18,5 +18,5 @@ p {
   left: 50%; /* centering*/
   transform: translateX(-50%); /* centering*/
   text-decoration: none; /* got rid of the underline*/
-  color: black; /* made it black*/
+  color: grey; /* made it grey*/
   font-size: 20px; /* changed the font size*/
