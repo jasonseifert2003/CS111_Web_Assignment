@@ -1,0 +1,22 @@
+/* Jason Seifert 10/06/2025, I changed the background color to light blue, changed the font to some random font, and changed the font size for the paragraphs to be 20. 
+Another thing I looked into was centering the Page changer. The link from the 2nd page to the 1st page is the picture. */
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  font-family: Georgia, Helvetica, serif;
+}
+
+p {
+  font-size: 20px;
+}
+
+.center-link {
+  position: fixed;
+  bottom: 20px;
+  left: 50%; /* centering*/
+  transform: translateX(-50%); /* centering*/
+  text-decoration: none; /* got rid of the underline*/
+  color: black; /* made it black*/
+  font-size: 20px; /* changed the font size*/
