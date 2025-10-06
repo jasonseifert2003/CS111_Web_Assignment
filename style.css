@@ -15,8 +15,15 @@ p {
 .center-link {
   position: fixed;
   bottom: 20px;
-  left: 50%; /* centering*/
-  transform: translateX(-50%); /* centering*/
-  text-decoration: none; /* got rid of the underline*/
-  color: gray; /* made it gray*/
-  font-size: 20px; /* changed the font size*/
+  left: 50%;
+  transform: translateX(-50%);
+  text-align: center;
+  text-decoration: none;
+
+  color: black;            /* black color */
+  background-color: white; /* white fill */
+  border: 2px solid black; /* black border */
+
+  font-size: 20px;
+  padding: 10px 20px;     
+  border-radius: 8px;      /* rounded corners */
