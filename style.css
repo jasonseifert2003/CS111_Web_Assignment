@@ -22,9 +22,9 @@ p {
 
   color: black;            
   background-color: #A7CCA4; 
-  border: 2px solid black; 
+  border: 2px #8EEDA2; 
 
   font-size: 20px;
-  font-family: Arial, Helvetica, sans-serif:
-  padding: 10px 20px;     
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 5px 10px;     
   border-radius: 8px;      
